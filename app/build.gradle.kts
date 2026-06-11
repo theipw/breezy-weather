@@ -337,6 +337,16 @@ configure<ApplicationExtension> {
             "INFOPLAZA_KEY",
             "\"${localProperties.getProperty("breezy.infoplaza.key") ?: ""}\""
         )
+        it.buildConfigField(
+            "String",
+            "XWEATHER_CLIENT_ID",
+            "\"${localProperties.getProperty("breezy.xweather.clientId") ?: ""}\""
+        )
+        it.buildConfigField(
+            "String",
+            "XWEATHER_CLIENT_SECRET",
+            "\"${localProperties.getProperty("breezy.xweather.clientSecret") ?: ""}\""
+        )
     }
 
     flavorDimensions.add("default")

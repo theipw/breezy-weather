@@ -713,6 +713,13 @@
     <string name="settings_source_default_value">Default (unchanged)</string>
     <string name="settings_source_api_key">API key</string>
     <string name="settings_source_api_key_invalid">Value is not in the expected format</string>
+    <string name="settings_source_client_id">Client ID</string>
+    <string name="settings_source_client_secret">Client secret</string>
+    <string name="settings_source_station_id">Station ID</string>
+    <string name="settings_weather_source_xweather_station_id" translatable="false">@string/settings_source_station_id</string>
+    <string name="settings_weather_source_xweather_client_id" translatable="false">@string/settings_source_client_id</string>
+    <string name="settings_weather_source_xweather_client_secret" translatable="false">@string/settings_source_client_secret</string>
+    <string name="settings_source_xweather_station_id_summary">Station ID or location (e.g. KMSP or 55101)</string>
     <string name="settings_location_source_baidu_ip_api_key" translatable="false">@string/settings_source_api_key</string>
     <string name="settings_weather_source_accu_api_key" translatable="false">@string/settings_source_api_key</string>
     <string name="settings_weather_source_eccc_api_key" translatable="false">@string/settings_source_api_key</string>
