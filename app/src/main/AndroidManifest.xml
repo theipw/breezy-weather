@@ -80,7 +80,7 @@
 
     <application
         android:icon="@mipmap/ic_launcher"
-        android:label="@string/brand_name"
+        android:label="Breezy Weather"
         android:name=".BreezyWeather"
         android:supportsRtl="true"
         android:largeHeap="true"
