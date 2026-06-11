@@ -83,7 +83,7 @@ import org.breezyweather.sources.ipma.IpmaService
 import org.breezyweather.sources.ipsb.IpSbLocationService
 import org.breezyweather.sources.jma.JmaService
 import org.breezyweather.sources.knmi.KnmiService
-import org.breezyweather.sources.lhmtService.LhmtService
+import org.breezyweather.sources.lhmt.LhmtService
 import org.breezyweather.sources.lvgmc.LvgmcService
 import org.breezyweather.sources.meteoam.MeteoAmService
 import org.breezyweather.sources.meteolux.MeteoLuxService
